@@ -4,7 +4,6 @@
 optimizing a simple property (RDKit Crippen logP). Then **swap in a provided surrogate model**
 and compare how the search behaves.
 
-> This pack was generated on 2025-10-06.
 
 ## What students will do
 1. Install dependencies (RDKit, SELFIES, scikit-learn).
