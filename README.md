@@ -12,18 +12,7 @@ and compare how the search behaves.
 3. Swap the scoring function to a **given surrogate model** (Random Forest) and re-run.
 4. Compare results (distributions, best molecules, novelty) and submit a short report.
 
-## Quick start
-### Option A: conda (recommended for RDKit)
-```bash
-# create and activate env
-conda create -n genlogp -c conda-forge python=3.10 rdkit selfies scikit-learn pandas numpy matplotlib tqdm -y
-conda activate genlogp
-pip install joblib
-# launch
-jupyter lab  # or jupyter notebook, then open notebooks/
-```
-
-### Option B: pip
+### Install via pip
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # (Windows): .venv\Scripts\activate
