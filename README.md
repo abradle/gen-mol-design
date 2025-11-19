@@ -42,10 +42,9 @@ If `rdkit-pypi` fails on your platform, use **conda-forge** (Option A).
 ## Deliverables (students)
 - `outputs/baseline_top50.csv` and `outputs/tweaked_top50.csv`
 - 2–4 figures (logP distribution, objective trace, novelty vs. score, etc.)
-- A short report (~2 pages) using `docs/report_template.md`
+- A short report (~2 pages) answering the questions outlined
 
 ## Safety / ethics
 - This is a toy exercise optimizing **a single scalar**. It’s not a drug design pipeline.
 - Do not interpret high logP as “better drug.” Discuss limitations and biases in your report.
 
-See `docs/lesson_plan.md` for a suggested 90–180 minute schedule and `docs/rubric.md` for grading.
