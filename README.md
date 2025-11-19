@@ -20,7 +20,6 @@ pip install -r requirements.txt
 jupyter lab  # or jupyter notebook
 ```
 
-If `rdkit-pypi` fails on your platform, use **conda-forge** (Option A).
 
 ## Order of notebooks
 1. `notebooks/01_setup_and_smoketest.ipynb`
