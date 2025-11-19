@@ -1,0 +1,16 @@
+smiles,name
+CCO,ethanol
+c1ccccc1,benzene
+Cc1ccccc1,toluene
+CC(=O)OC1=CC=CC=C1C(=O)O,aspirin
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,ibuprofen
+CCN(CC)CC,triethylamine
+CCOC(=O)C,ethyl acetate
+O=C=O,carbon dioxide
+CCOC,ethyl methyl ether
+C1CCCCC1,cyclohexane
+CC(C)O,isopropanol
+CC(C)C,propane
+CCCN,propylamine
+CC(C)CO,isobutanol
+CNC,dimethylamine
