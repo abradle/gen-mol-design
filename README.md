@@ -25,11 +25,13 @@ jupyter lab  # or jupyter notebook
 1. `notebooks/01_setup_and_smoketest.ipynb`
 2. `notebooks/02_baseline_logP_generator.ipynb`
 3. `notebooks/03_tweak_with_surrogate_model.ipynb`
+4. `notebooks/04_multiobjective_guacamol_generator.ipynb`
+
 
 ## Deliverables (students)
 - `outputs/baseline_top50.csv` and `outputs/tweaked_top50.csv`
 - 2–4 figures (logP distribution, objective trace, novelty vs. score, etc.)
-- A short report (~2 pages) answering the questions outlined
+- A short report for assesment - more details on Canvas
 
 ## Safety / ethics
 - This is a toy exercise optimizing **a single scalar**. It’s not a drug design pipeline.
